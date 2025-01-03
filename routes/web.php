@@ -23,4 +23,4 @@ Route::get('/about', function () {
 
 // Route::get("/contact", 'ContactController@index');
 
-Route::get('/contact', [ContactController::class, 'index'])->middleware('check');
+Route::get('/contact', [ContactController::class, 'index'])->name('dipesh');

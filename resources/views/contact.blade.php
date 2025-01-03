@@ -424,7 +424,7 @@
             <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
 
             </div>
-            <h1>About Page</h1>
+            <h1>Contact</h1>
             <a href="{{ url('/')}}">Home</a> |
             <a href="{{ url('/about') }}">About</a> |
             <a href="{{ route('dipesh') }}}">Contact</a> |
